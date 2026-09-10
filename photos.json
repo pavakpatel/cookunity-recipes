@@ -1,0 +1,91 @@
+{
+  "11577": {
+    "path": "images/11577.avif",
+    "original_filename": "8127_Lena_Elkousy_Black_Bean_Tofu_Tinga_Tacos_15654.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "Downloaded meal filename"
+  },
+  "3355": {
+    "path": "images/3355.avif",
+    "original_filename": "389_Jose_Garces_Quinoa_and_Veggie_Enchiladas_9764.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "Downloaded meal filename"
+  },
+  "11104": {
+    "path": "images/11104.avif",
+    "original_filename": "8018_Emily_Peck_Plant_based_pasta_alla_Vodka_12019.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "Downloaded meal filename"
+  },
+  "6641": {
+    "path": "images/6641.avif",
+    "original_filename": "vegan_quesadilla_-_stark.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "Downloaded meal filename"
+  },
+  "9721": {
+    "path": "images/9721.avif",
+    "original_filename": "4790_John_DeLucie_Penne_spicy_pink_sauce_4061-39.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "Downloaded meal filename"
+  },
+  "12797": {
+    "path": "images/12797.avif",
+    "original_filename": "9454_Sergio_Tominaga_Quinoa_Salad_5753.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "Downloaded meal filename"
+  },
+  "10053": {
+    "path": "images/10053.avif",
+    "original_filename": "5489_Raymundo_Agrazal_Mexican_tofu_burrito_bowl_avocado_sauce_6082.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "Downloaded meal filename"
+  },
+  "12845": {
+    "path": "images/12845.avif",
+    "original_filename": "9744_9678_Maia_Bengochea_Fettuccine_Lentil_Bolognese_7002.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "Downloaded meal filename"
+  },
+  "1450": {
+    "path": "images/1450.avif",
+    "original_filename": "peluffo-sweet-potato-quinoa-bowl.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "Downloaded meal filename"
+  },
+  "ii-137539908": {
+    "path": "images/ii-137539908.avif",
+    "original_filename": "9094_Lena_Elkousy_Probiotic_Potato_Chickpea_Salad_0908.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "CookUnity page image URL",
+    "source_image_url": "https://cu-media.imgix.net/meal-service/meals/9094/main_image/9094_Lena_Elkousy_Probiotic_Potato_Chickpea_Salad_0908.jpg?auto=format"
+  },
+  "3621": {
+    "path": "images/3621.avif",
+    "original_filename": "lena-rigatonipesto.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "CookUnity page image URL",
+    "source_image_url": "https://cu-media.imgix.net/media/catalog/product/cache/x1200/l/e/lena-rigatonipesto.jpeg?auto=format"
+  },
+  "5506": {
+    "path": "images/5506.avif",
+    "original_filename": "sun_dried_tomato_almond_rigatoni_with_spinach_and_roasted_fennel_-_elkousy.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "CookUnity page image URL",
+    "source_image_url": "https://cu-media.imgix.net/media/catalog/product/cache/x1200/s/u/sun_dried_tomato_almond_rigatoni_with_spinach_and_roasted_fennel_-_elkousy.jpg?auto=format"
+  },
+  "6642": {
+    "path": "images/6642.avif",
+    "original_filename": "1788_Ivy-Stark_Vegan-'Chorizo'-Chili-Mac-And-Cheese_WB_LowRes-1.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "CookUnity page image URL",
+    "source_image_url": "https://cu-media.imgix.net/meal-service/meals/1788/main_image/1788_Ivy-Stark_Vegan-'Chorizo'-Chili-Mac-And-Cheese_WB_LowRes-1.jpg?auto=format"
+  },
+  "13348": {
+    "path": "images/13348.avif",
+    "original_filename": "9912_Raymundo_Agrazal_chimichanga_00391.avif",
+    "supplied_on": "2026-09-10",
+    "match_basis": "CookUnity page image URL",
+    "source_image_url": "https://cu-media.imgix.net/meal-service/meals/9912/main_image/9912_Raymundo_Agrazal_chimichanga_00391.jpg?auto=format"
+  }
+}
