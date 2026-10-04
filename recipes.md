@@ -384,6 +384,10 @@ Chef: **Sergio Tominaga** · [CookUnity source](https://subscription.cookunity.c
 
 Photo from the CookUnity meal listing; the home recipe below is a reconstruction.
 
+![CookUnity package label for Heart of Palm Quinoa Salad](images/12797-label.jpeg)
+
+Package label photo supplied October 4, 2026.
+
 **What the page establishes:** The page describes ponzu-marinated quinoa, hearts of palm, tomatoes, cucumber, crisp fried quinoa, and cucumber-tofu dressing. The label also includes edamame, black beans, vegan feta, lettuce, mint, yuzu, kombu, and shiitake.
 
 **Published ingredient names** (commercial subingredients omitted; duplicates removed): Tri-color Quinoa; Hearts of Palm; Edamame; Cherry Tomato; Canned Black Beans; Cucumber; Vegan Feta; Silken Firm Tofu; Vegan Mayonnaise; Iceberg Lettuce; White Vinegar; Light Soy Sauce; Mint; Mirin; Yellow Mustard; Yuzu Juice; Garlic; Seasoned Rice Wine Vinegar; Black Pepper; Kosher Salt; Cumin; Monosodium Glutamate; Kombu; Shiitake Mushroom.

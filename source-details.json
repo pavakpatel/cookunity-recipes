@@ -251,7 +251,11 @@
       "sugar_g": 5,
       "protein_g": 21
     },
-    "allergens": "Contains cereals containing gluten, wheat, soybeans, mustard."
+    "allergens": "Contains cereals containing gluten, wheat, soybeans, mustard.",
+    "label_photo": {
+      "path": "images/12797-label.jpeg",
+      "supplied_on": "2026-10-04"
+    }
   },
   {
     "id": "10053",
